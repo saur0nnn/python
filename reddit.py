@@ -5,7 +5,7 @@ reddit = praw.Reddit(
     client_secret="3eEKj0HPtxjw92VA6-8h7iQqY3LmNw",
     user_agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0",
     username = "saur0nnn",
-    password = "gmertisauroni123"
+    password = "realuri informacia romelsac githubshi chavteni"
 )
 
 subreddit = reddit.subreddit("test")
